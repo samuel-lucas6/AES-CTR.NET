@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>AesCTRDotNet</RootNamespace>
+    <AssemblyName>AesCTRDotNet</AssemblyName>
+    <Authors>Samuel Lucas</Authors>
+    <Copyright>Copyright (c) 2021 Samuel Lucas</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/samuel-lucas6/AES-CTR.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/samuel-lucas6/AES-CTR.NET</RepositoryUrl>
+    <Description>A .NET implementation of AES-CTR.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ErrorReport>none</ErrorReport>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>cryptography;crypto;encryption;decryption;aes;aes-ctr;aes-encryption;aes-decryption</PackageTags>
+    <AnalysisLevel>latest</AnalysisLevel>
+  </PropertyGroup>
+
+</Project>
