@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/samuel-lucas6/AES-CTR.NET/blob/main/LICENSE)
+[![CodeQL](https://github.com/samuel-lucas6/AES-CTR.NET/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/samuel-lucas6/AES-CTR.NET/actions)
 
 # AES-CTR.NET
 A .NET implementation of [AES-CTR](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Counter_(CTR)) because it is not available in the [System.Security.Cryptography](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.ciphermode?view=net-6.0) namespace.
